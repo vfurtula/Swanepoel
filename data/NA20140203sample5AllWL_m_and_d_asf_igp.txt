@@ -1,0 +1,9 @@
+Column 1: Number of ignored points
+Column 2: Y-axis intersept point in nm
+Column 3: -m_1 index (given by l/2) in nm
+Column 4: Film thickness calculated from the slope a (NOT final) in nm
+Column 5: Film thickness 2nd iteration (d2 in Table 1 in Swanepoel(1983)) in nm
+Column 1-5 LINEAR interp, Column 6-10 SPLINE interp
+0	-0.522735085151	-0.5	233.885005094	231.17140978		0	-0.110407215232	-0.0	241.118472669	205.073609102
+1	-0.42909614294	-0.5	210.834791644	227.587598146		1	-0.0704950370627	-0.0	228.186941886	197.992363704
+2	-0.455356049504	-0.5	218.013218855	231.172903391		2	-0.0726433292184	-0.0	229.010371027	192.472066821
